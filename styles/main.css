@@ -1,11 +1,11 @@
 #con{
     background-color:lime;
-    height:7vh;
+    height:10vh;
     width:100vw;
     display:flex;
     justify-content:center;
     color:white;
-    font-size:3vh;
+    font-size:5vh;
 }
 #con>div{
     margin-left:5vw;
@@ -32,6 +32,7 @@
     }
     #con>div{
         padding-right:10%;
+        font-size:4vw;
     }
 }
 @media screen and (max-width:500px)
@@ -41,8 +42,8 @@
     }
     #con>div{
         display:inline;
-        font-size:50%;
-        margin-left:50%;
+        font-size:45%;
+        margin-left:45%;
         padding-right:0%;
         padding-top:0%;
     }
