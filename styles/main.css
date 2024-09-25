@@ -8,8 +8,8 @@
     font-size:3vh;
 }
 #con>div{
-    margin-left:10vw;
-    padding-right:10vw;
+    margin-left:5vw;
+    padding-right:5vw;
     padding-top:1%;
 }
 .projects>div{
@@ -29,6 +29,9 @@
         background-color:black;
         color:cyan;
         font-size:2vh;
+    }
+    #con>div{
+        padding-right:10%;
     }
 }
 @media screen and (max-width:500px)
